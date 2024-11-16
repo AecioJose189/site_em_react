@@ -1,6 +1,15 @@
 
 .carrossel-head{
     width: 100%;            
-    height: 500px;          
-    background-color: #76A9EA;
+    height: 540px;          
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+}
+.carrossel-head h1{
+    color: #0788D0;
+    width: 40%;
+    margin-left: 60px;
 }
