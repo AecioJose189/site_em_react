@@ -1,6 +1,12 @@
 
 .header-sobrenos{
-    margin-top: 20px;
+    margin-top: 80px;
+    margin-left: 10%;
+    margin-bottom: 0;
+}
+.header-sobrenos h1{
+    font-size: 40px;
+    margin-bottom: 0;
 }
 .separadores{
     position: relative;
@@ -14,4 +20,10 @@
 }
 .separadores .left{
     margin-right: 20%;
+}
+.separadores .left p{
+    font-size: 25px;
+}
+.separadores .right img{
+    border-radius: 20px;
 }

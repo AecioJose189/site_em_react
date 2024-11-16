@@ -4,6 +4,8 @@ import './index.css'
 import Carrossel from './components/Carrossel'
 import NavBar from './components/NavBar'
 import SobreNos from './components/SobreNos'
+import React from "react";
+import { Route, BrowserRouter, Routes } from "react-router-dom";
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

@@ -2,7 +2,7 @@ import imagem_direita from '../assets/image/foto_padding_left.png'
 import './SobreNos.css'
 function SobreNos(){
     return(
-        <div>
+        <div id='SobreNos'>
             <header className='header-sobrenos'>
                 <h1>Sobre nós</h1>
             </header>
