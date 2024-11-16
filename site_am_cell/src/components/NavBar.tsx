@@ -3,7 +3,7 @@ import './Navbar.css'
 function NavBar() {
     return(
         <header className="header">
-            <a href="/" className="logo">Logo amcell</a>
+            <a href="/" className="logo">Logo</a>
             <nav className="navbar">
                 <a href="/">Início</a>
                 <a href="/">Nossos serviços</a>

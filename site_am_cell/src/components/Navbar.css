@@ -29,7 +29,7 @@
     left: 0;
     width: 0;
     height: 2px;
-    background: #fff;
+    background: #FFD700;
     transition: .3s;
 }
 .navbar a:hover::before{
